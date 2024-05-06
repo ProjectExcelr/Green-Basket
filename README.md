@@ -36,6 +36,10 @@ Installation:
 
   Access the grocery application through the web browser. Perform operations on the items.
 
+=> Contributing
+
+Feel free to contribute to this project by opening issues or pull requests. Your contributions are welcome!
+
   => Technologies Used
       - React
       - Spring Boot
